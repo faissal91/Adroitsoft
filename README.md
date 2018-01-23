@@ -1,7 +1,7 @@
 
 ![](http://adroitsoft.com/images/AdroitsoftLogo_350x74_2.png)
 
-<p font size="05" style="font-family:Cambria;">The Adroitsoft Developer Documentation is the primary resource for all Adroitsoft integration related information.</p>
+<p font size="03" style="font-family:Cambria;">The Adroitsoft Developer Documentation is the primary resource for all Adroitsoft integration related information.</p>
 
 + ## Hottest Trend - 
 
