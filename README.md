@@ -16,4 +16,4 @@ Adroitsoft team brings significant clinical knowledge, solid experience, practic
 
       <p1>Machine learning is the science of getting computers to act without being explicitly programmed.  Machine learning explores the study and construction of algorithms that can learn from and make predictions on data – such algorithms overcome following strictly static program instructions by making data-driven predictions or decisions, through building a model from sample inputs. Machine learning is employed in a range of computing tasks where designing and programming explicit algorithms with good performance is difficult or infeasible; example applications include email filtering, detection of network intruders or malicious insiders working towards a data breach, optical character recognition (OCR), learning to rank, and computer vision.</p1>
 
-  - ### [Suvpervised Learning](Adroitsoft/Supervised Learning.md)
+  - [Suvpervised Learning](Adroitsoft/Supervised Learning.md)
