@@ -1,7 +1,7 @@
 
 ![](http://adroitsoft.com/images/AdroitsoftLogo_350x74_2.png)
 
-The Adroitsoft Developer Documentation is the primary resource for all Adroitsoft integration related information.
+<p font size="8" style="font-family:Cambria;">The Adroitsoft Developer Documentation is the primary resource for all Adroitsoft integration related information.</p>
 
 <p font size="8" style="font-family:Cambria;">
 Adroitsoft is a Healthcare Information Technology Consulting and Service Delivery firm enabling healthcare organizations with great ingenuity to create Adroit solutions leveraging leading edge technologies that improve safety and quality of patient care, and reduce costs, while maximizing return on investment for the organization.
