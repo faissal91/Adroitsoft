@@ -9,7 +9,7 @@ Adroitsoft team brings significant clinical knowledge, solid experience, practic
 
 </p>
 
-## Current Research - 
+## Hottest Trend - 
 
 #### Machine Learning
 ![](https://image.slidesharecdn.com/codemash-machinelearningwithapachespark-160119152043/95/machine-learning-with-apache-spark-14-638.jpg?cb=1453217004)
