@@ -1,6 +1,6 @@
 
 ![](http://adroitsoft.com/images/AdroitsoftLogo_350x74_2.png)
-<p style="font-family:verdana;">
+<p style="font-family:Cambria;">
 Adroitsoft is a Healthcare Information Technology Consulting and Service Delivery firm enabling healthcare organizations with great ingenuity to create Adroit solutions leveraging leading edge technologies that improve safety and quality of patient care, and reduce costs, while maximizing return on investment for the organization.
 
 Adroitsoft Inc. provides a broad scope of healthcare consulting, software development and data services specially focused on Clinical Decision Support, BRMS, Clinical Content and Terminologies Management, Medication Management, Population Management including Complex Chronic Conditions, Case Management for NCQA requirements, Medicare & Medicaid Patient Management, Clinical Quality Reporting, Workflow Management, Outreach Management, Informatics, Analytics and EHR integration services. Our team has over 80 years combined experience in healthcare domain in advocating technical solutions, assisting in creating effective workflows, system designing, developing, integrating and implementing, healthcare solutions using cutting edge technologies and Health Information Technology Standards (HITS). 
