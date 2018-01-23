@@ -18,4 +18,4 @@ Adroitsoft team brings significant clinical knowledge, solid experience, practic
 
   - [Documentation](https://github.com/faissal91/Adroitsoft/blob/master/Machine%20Learning%20-%20Technical%20Documentation%20(2).pdf)
 ---
-More Details available on [WIKI]() or Write us [contact@adroitsoft.com](mailto:contact@adroitsoft.com)
+More Details available on [WIKI]() or Write us [connect@adroitsoft.com](mailto:connect@adroitsoft.com)
