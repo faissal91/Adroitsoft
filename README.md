@@ -19,6 +19,7 @@ The Adroitsoft Developer Documentation is the primary resource for all Adroitsof
    - [Services](http://adroitsoft.com/services.aspx)
    - [Clients Served](http://adroitsoft.com/aboutus.aspx)
  
+ [TECHNICAL DOCUMENTATON](https://github.com/faissal91/Adroitsoft/blob/master/Machine%20Learning%20-%20Technical%20Documentation%20(2).pdf) 
 
 ***
 More Details available on [WIKI]() 
