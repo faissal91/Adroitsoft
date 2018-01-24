@@ -10,7 +10,7 @@ The Adroitsoft Developer Documentation is the primary resource for all Adroitsof
 
 ## Hottest Trend
  + Machine Learning
-   - [Supervised Learning](/faissal91/Adroitsoft/blob/master/Supervised-Learning.md)
+   - [Supervised Learning](https://github.com/faissal91/Adroitsoft/blob/master/Supervised-Learning.md)
    - [Unsupervised Learning]()
    - [Reinforcement  Learning]()
    
